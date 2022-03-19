@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Active Cases"
+        android:id="@+id/activeCases"
+        />
+    <item android:title="Recovered"
+        android:id="@+id/recovered" />
+    <item android:title="Deaths"
+        android:id="@+id/deaths"/>
+</menu>
