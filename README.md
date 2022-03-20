@@ -1,7 +1,7 @@
 
 # COVID TRACKER APPLICATION
 
-An android which tracks COVID-19 cases data and vaccination slots for India.
+An android app which tracks COVID-19 cases data and vaccination slots for India.
 This app displays state wise data for COVID-19 cases.
 It displays Active cases, Deaths and Recovered for each state and data of whole country.
 
@@ -54,10 +54,10 @@ This app can be divided into three parts :-
  Offline Caching is not provided as to display realtime data to user.
 
 ## API Used
-Covid Data - https://api-covid19-tracker.herokuapp.com/india/state_wise
+1. Covid Data - https://api-covid19-tracker.herokuapp.com/india/state_wise 
 
-&nbsp;
-Cowin Api for Vaccine Data - https://apisetu.gov.in/api/cowin#/Appointment%20Availability%20APIs/findByPin
+
+2. Cowin Api for Vaccine Data - https://apisetu.gov.in/api/cowin#/Appointment%20Availability%20APIs/findByPin
 ## DEMO
 
 
